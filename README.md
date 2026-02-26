@@ -62,4 +62,6 @@ This is intentionally simple. The dataset is tiny (~5K tokens), the model is unt
 
 ---
 
-Thanks again Raschka — genuinely couldn't have understood this stuff without your work.
+Thanks again [Sebastian Raschka](https://github.com/rasbt) — genuinely couldn't have understood this stuff without your work.
+
+date:2026-02-26  11:45PM
