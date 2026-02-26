@@ -1,0 +1,18 @@
+# Model weights
+weights/
+*.pth
+*.pt
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
